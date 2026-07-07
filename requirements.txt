@@ -5,3 +5,4 @@ scikit-learn
 gradio
 joblib
 matplotlib
+audioop-lts
