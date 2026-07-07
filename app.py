@@ -232,7 +232,7 @@ with gr.Blocks(theme=theme, css=CSS, title="GridSync — Power Plant Predictor")
         )
 
     btn = gr.Button(
-        "⚡  Predict Net Power Output",
+        "  Predict Net Power Output",
         variant="primary",
         elem_classes=["predict-btn"],
     )
