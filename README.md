@@ -1,8 +1,8 @@
 ---
 title: GridSync — Power Plant Net Output Predictor
 emoji: ⚡
-colorFrom: teal
-colorTo: cyan
+colorFrom: blue
+colorTo: green
 sdk: gradio
 sdk_version: "4.0"
 app_file: app.py
