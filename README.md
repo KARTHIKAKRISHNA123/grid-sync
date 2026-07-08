@@ -1,23 +1,4 @@
----
-title: GridSync — Power Plant Net Output Predictor
-emoji: ⚡
-colorFrom: blue
-colorTo: green
-sdk: gradio
-sdk_version: "4.44.1"
-app_file: app.py
-pinned: true
-license: mit
-tags:
-  - pytorch
-  - regression
-  - energy
-  - gradio
-  - ann
-  - power-plant
-  - deep-learning
-  - ccpp
----
+
 
 <div align="center">
 
